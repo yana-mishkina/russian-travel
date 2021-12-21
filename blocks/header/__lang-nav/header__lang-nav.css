@@ -1,0 +1,8 @@
+.header__lang-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
