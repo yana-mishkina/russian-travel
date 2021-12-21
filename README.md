@@ -14,3 +14,6 @@
 
 ## Автор
 Мишкина Яна mishkina_yana@mail.ru
+
+##
+Ссылка на GitHub Pages https://yana-mishkina.github.io/russian-travel/index.html
