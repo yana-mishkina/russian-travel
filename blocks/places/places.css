@@ -27,13 +27,14 @@
 @media screen and (max-width: 928px) {
   .places {
       max-width: 100%;
-      padding: 90px 24px 88px;
+      padding-left: 24px;
+      padding-right: 24px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .places {
       max-width: 100%;
-      padding: 64px 0 99px;
+      padding: 64px 0 66px;
   }
 }
