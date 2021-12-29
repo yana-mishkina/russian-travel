@@ -10,7 +10,7 @@
   opacity: .8;
 }
 
-@media screen and (max-width: 590px) {
+@media screen and (max-width: 690px) {
     .footer__links {
       flex-direction: column;
       padding: 0 0 48px;
